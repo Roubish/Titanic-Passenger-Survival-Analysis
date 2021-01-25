@@ -1,4 +1,5 @@
 # Titanic-Passenger-Survival-Analysis
+![](titanic.jfif)
 ### Here is a quick explanation of some of the features:
 1. Survived: that's the target, 0 means the passenger did not survive, while 1 means he/she survived.
 2. Pclass: passenger class.
