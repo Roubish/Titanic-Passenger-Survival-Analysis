@@ -30,4 +30,5 @@ I will be testing the following models with my training data :
 - Random Forest Classifier
 - KNN or k-Nearest Neighbors
 - Stochastic Gradient Descent
-- Gradient Boosting Classifier For each model, we set the model, fit it with 80% of our training data, predict for 20% of the training data and check the accuracy.
+
+Gradient Boosting Classifier For each model, we set the model, fit it with 80% of our training data, predict for 20% of the training data and check the accuracy.
