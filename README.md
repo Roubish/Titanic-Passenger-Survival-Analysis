@@ -21,7 +21,7 @@
 - Cabin: string
 - Embarked: string
 ## Final Feature of Titanic Passenger Survival
-![]()
+![](figure.png)
 ### Summary of Titanic Passenger Survival Data
 I will be testing the following models with my training data :
 - Gaussian Naive Bayes
